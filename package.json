@@ -1,0 +1,17 @@
+{
+  "name": "discdial",
+  "version": "1.0.0",
+  "description": "Dial into Discord VCs! :3",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord", "calling", "discord.js"],
+  "author": "Nova",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "typescript": "^7.0.2"
+  }
+}
